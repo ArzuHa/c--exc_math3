@@ -1,0 +1,7 @@
+C:\Users\ArzuMh\Desktop\gghh\gghh\bin\Debug\gghh.exe.config
+C:\Users\ArzuMh\Desktop\gghh\gghh\bin\Debug\gghh.exe
+C:\Users\ArzuMh\Desktop\gghh\gghh\bin\Debug\gghh.pdb
+C:\Users\ArzuMh\Desktop\gghh\gghh\obj\Debug\gghh.csprojAssemblyReference.cache
+C:\Users\ArzuMh\Desktop\gghh\gghh\obj\Debug\gghh.csproj.CoreCompileInputs.cache
+C:\Users\ArzuMh\Desktop\gghh\gghh\obj\Debug\gghh.exe
+C:\Users\ArzuMh\Desktop\gghh\gghh\obj\Debug\gghh.pdb
